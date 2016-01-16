@@ -1,3 +1,0 @@
-# ChatProject
-Chat 
-Hello
